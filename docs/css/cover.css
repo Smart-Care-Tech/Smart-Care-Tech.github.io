@@ -59,3 +59,18 @@ body {
   color: #fff;
   border-bottom-color: #fff;
 }
+
+.sns {
+    padding-top: 20px
+}
+.fa-facebook, .fa-twitter, .fa-linkedin {
+    font-size: xx-large;
+    opacity: 1;
+}
+.fa-linkedin {
+    padding: 0px 12px;
+}
+
+.fa-facebook:hover, .fa-twitter:hover, .fa-linkedin:hover, input[type="submit"]:hover {
+    opacity: 0.8;
+}
