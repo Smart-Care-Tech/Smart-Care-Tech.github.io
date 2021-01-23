@@ -60,6 +60,10 @@ body {
   border-bottom-color: #fff;
 }
 
+.dropdown-menu-dark .dropdown-item.active {
+    background-color: #66cc99;
+}
+
 .sns {
     padding-top: 20px
 }
